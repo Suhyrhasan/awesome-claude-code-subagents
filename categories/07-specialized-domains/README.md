@@ -77,6 +77,11 @@ SEO expert driving organic traffic through search optimization. Masters technica
 
 **Use when:** Optimizing for search engines, implementing structured data, improving site speed, building content strategies, or analyzing search performance.
 
+### [**web-launch-consultant**](web-launch-consultant.md) - End-to-end web design and deployment consultant
+Full-stack web launch expert who guides projects from initial design concept to a fully live, performant, and professionally configured website. Combines five specialized disciplines into one orchestrated workflow: design translation (Figma design systems → build instructions), frontend development (React/Vue/Angular with TypeScript), platform publishing (Framer), domain management (GoDaddy DNS), CDN and security configuration (Cloudflare), Core Web Vitals optimization, and post-launch SEO strategy. Understands both the creative and technical sides of the stack — from pixel-perfect UI to DNS propagation and edge caching.
+
+**Use when:** Launching a new website end-to-end, importing a Figma design into Framer, configuring a custom domain with GoDaddy and Cloudflare, troubleshooting DNS propagation or SSL issues, improving Core Web Vitals scores, or building a post-launch SEO foundation.
+
 ## Quick Selection Guide
 
 | Domain | Use this subagent | Best For |
@@ -93,6 +98,7 @@ SEO expert driving organic traffic through search optimization. Masters technica
 | Quantitative | **quant-analyst** | Trading algorithms, risk |
 | Risk Management | **risk-manager** | Risk assessment, compliance |
 | SEO/Search | **seo-specialist** | Search optimization, rankings |
+| Web Launch | **web-launch-consultant** | Figma → Framer → GoDaddy → Cloudflare |
 
 ## Common Domain Patterns
 
@@ -131,6 +137,11 @@ SEO expert driving organic traffic through search optimization. Masters technica
 - **payment-integration** for checkout
 - **mobile-app-developer** for mobile commerce
 - **risk-manager** for fraud prevention
+
+**Web Launch (Design to Live Site):**
+- **web-launch-consultant** for end-to-end orchestration
+- **seo-specialist** for post-launch search strategy
+- **risk-manager** for security and uptime planning
 
 ## Getting Started
 

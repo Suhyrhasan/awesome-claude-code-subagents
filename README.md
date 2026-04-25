@@ -254,6 +254,7 @@ Domain-specific technology experts.
 - [**quant-analyst**](categories/07-specialized-domains/quant-analyst.md) - Quantitative analysis specialist
 - [**risk-manager**](categories/07-specialized-domains/risk-manager.md) - Risk assessment and management expert
 - [**seo-specialist**](categories/07-specialized-domains/seo-specialist.md) - Search engine optimization expert
+- [**web-launch-consultant**](categories/07-specialized-domains/web-launch-consultant.md) - End-to-end web design and deployment consultant (Figma → Framer → GoDaddy → Cloudflare)
 
 ### [08. Business & Product](categories/08-business-product/)
 **Plugin:** `voltagent-biz`
